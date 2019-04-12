@@ -1,0 +1,5 @@
+C:\Project\SearchFiles\bin\Debug\SearchFiles.exe
+C:\Project\SearchFiles\bin\Debug\SearchFiles.pdb
+C:\Project\SearchFiles\obj\x86\Debug\SearchFiles.exe
+C:\Project\SearchFiles\obj\x86\Debug\SearchFiles.pdb
+C:\Project\SearchFiles\obj\x86\Debug\SearchFiles.csprojResolveAssemblyReference.cache
